@@ -1,8 +1,5 @@
 /config.local
+config
 /tmp
 /cache
 .DS_Store
-*.bin
-seldon-core/*
-**/constant.py
-/data
